@@ -1,0 +1,11 @@
+--------------------------------------------Versión 0.2b--------------------------------------------
+
+-Se agrega un método pop-up en el controlador SceneManager el cual se lanza al completar un envío en "factura", además de limpiar los campos (Agregar las variables a los campos).
+
+-Se agrega un combobox que actúa como filtrador en la ventana factura
+
+-Se agregan las pantallas modificar y eliminar, en la sección de Empleado
+
+-Se agregan los botones "Atras" en modificar y eliminar, en la sección de Empleado además de su funcionalidad para retornar al "Menú Empleado"
+
+-(Se deberá trabajar en los campos de empleado y charlarlo con los compañeros de equipo)
